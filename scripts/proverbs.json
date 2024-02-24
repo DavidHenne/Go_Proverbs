@@ -1,0 +1,772 @@
+{
+    "proverbs": [
+        {
+            "author": "zhang, 1078 AD",
+            "proverb": "Those who are good at winning, don't usually fight."
+        },
+        {
+            "author": "zhang, 1078 AD",
+            "proverb": "Those who are good at making shape don't usually fight."
+        },
+        {
+            "author": "zhong-pu liu, 1078 AD",
+            "proverb": "Never be too sure about your plan, and always doubt your ability to kill your opponent's stones."
+        },
+        {
+            "author": "zhong-pu liu, 1078 AD",
+            "proverb": "Fighting must not be the key to go, it should be reserved as your last resource."
+        },
+        {
+            "author": "Chinese proverb",
+            "proverb": "If you cannot succeed, then die gloriously"
+        },
+        {
+            "author": "Go Seigen, 9p, 1994",
+            "proverb": "Go is essentially a form of harmony. Go in the 21st century will have to be go of the 'harmony of the six points - the four quarters, the above and the below.' As in life we will need to view the whole rather than the part. Japanese go has focused too heavily on the local (joseki) rather than the whole for 300 years. The reason the Chinese and Koreans are overtaking the Japanese is that they are closer to achieving this whole-board view."
+        },
+        {
+            "author": "Otake Hideo, 9p",
+            "proverb": "When your opponent is thick, you must also become thick."
+        },
+        {
+            "author": "Otake Hideo, 9p",
+            "proverb": "In opponents' sphere of influence, avoid sharp conflict, don't move too deep"
+        },
+        {
+            "author": "Yang Yilun, 7p",
+            "proverb": "5 lines for extension in front of shimari"
+        },
+        {
+            "author": "Yang Yilun, 7p",
+            "proverb": "To invade, need 20 points in open area; otherwise, keshi is best."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "Go is a game of chance where the strong player is he who renders circumstances favorable with tricks."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "Everything happens on a grid-engraved board with black and white pieces, but if that's all you see then you don't know Go."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "The game plays itself, the players don't control it."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "There are possible things, impossible things, and things that happen. Sometimes things happen that were impossible."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "The possibility or impossibility of an event results logically from the rules."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "From the way the players perceive what can happen and what shouldn't happen springs what happens."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "The nature of a game comes from what is played, but it's the sensitivity to the possible and the impossible that gives it value."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "(A shicho works or doesn't work, but sometimes you don't see it, you don't play it). The possible and the impossible are visible and invisible. What happens is always what you see, what is played."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "Territory really exists only in the end."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "There are lines, like roots, that plunge into the stone and shatter it."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "The intersection is rarely neutral."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "The stone in the bowl is idiotic."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "There are players who clack down ridiculous moves. Certain others place their moves with crisp, dry contact, like bones cracking. Still others drop their stones with a soft sound."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "In the sound of the stone your can hear its purpose."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "To emphasize the lack of determination in his moves, one speaks of chance."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "One is never aware enough of the violence in go."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "You have to like to win, and to learn to recognize the errors that gave you the victory."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "Sometimes an idiotic stone loafs about the goban."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "Does white await black's errors? Certainly, in two ways: either he makes clean, clear, dangerous moves; or he makes confusing, twisted moves that are just as dangerous. The adequate answers are always difficult to find."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "If black doesn't pile up enough errors to lose, then it will soon be time to lower the handicap."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "Very few good moves are played."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "There is a time and a space which are the same in all go games: the alternating of black and white, and the intersections."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "This time and this space have certain properties, and for a long time, to progress means to become familiar with them."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "You must incessantly question yourself about this time and this space."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "The ax's handle rots while the mind lives to the rhythm of the stones."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "Territory is a closed space where time no longer exists. The transformation around it slowly alter it, and sometimes it cracks open like a rotten egg at the least shock."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "Beginner's games are surprising, often incoherent and incomprehensible. When you improve, your game gains in consistency but flirts with stupidity: you become satisfied with truisms and mechanical movements, you try to obtain a feeling for clearness and style the easy way."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "You can hide nothing on the goban."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "Everything would seem to be possible in go. Like pulling a rabbit, by a magical move, out of a hat."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "(Any move that follows the rules is legal). Possibilities differ according to strength."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "Josekis are not fixed, definitive things. They indicate the moments when everything can change."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "Learning josekis by heart is useless if you don't try departing from them."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "Go is not a blocking game, it's a game of action."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "Every move brings change."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "There are players who don't accept exchanges: they play many moves that perpetuate a previous state of the game."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "Error is one of the sources of transformation."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "There is a time for doing things."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "You must always consider the circumstances. Nothing is identical, yet things repeat."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "Nothing requires doing this or that, but necessity exists."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "To do or not to do something is not determined by what is done in general, any more than by what is necessary. Doing or not doing something is determined by what you want, and to want in go is to want to win."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "Contesting, destabilizing, and threatening are sources of transformation."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "Balance is not what players strive for, and if it does arise, it is in spite of them."
+        },
+        {
+            "author": "Audouard, Pierre",
+            "proverb": "It is difficult to know exactly what you are doing."
+        },
+        {
+            "author": "Fairbairn, John",
+            "proverb": "More haste less speed."
+        },
+        {
+            "author": "Kent, David",
+            "proverb": "If White takes all four corners, Black should resign; if Black takes all four corners, Black should also resign."
+        },
+        {
+            "author": "Kim, Jay H.",
+            "proverb": "Make a fist before striking"
+        },
+        {
+            "author": "Sand, Tero",
+            "proverb": "Proverbs do not apply to White."
+        },
+        {
+            "author": "Taylor, Bill",
+            "proverb": "Grab the 4th point of the bamboo joint."
+        },
+        {
+            "author": "Taylor, Bill",
+            "proverb": "A knight's move near the edge of the board cannot be cut."
+        },
+        {
+            "author": "Taylor, Bill",
+            "proverb": "When in doubt, remove the enemy stones from the board."
+        },
+        {
+            "author": "Taylor, Bill",
+            "proverb": "Turn, turn, turn!"
+        },
+        {
+            "author": "Taylor, Bill",
+            "proverb": "Don't reduce your own liberties."
+        },
+        {
+            "author": "Taylor, Bill",
+            "proverb": "The weak player fears ko, the strong player seeks it."
+        },
+        {
+            "author": "Taylor, Bill",
+            "proverb": "Don't defend - extend!"
+        },
+        {
+            "author": "Taylor, Bill",
+            "proverb": "Keep your own stones connected, and your opponent's apart."
+        },
+        {
+            "author": "Figaro",
+            "proverb": "Always remember, keep the balance (between territory and influence)"
+        },
+        {
+            "author": "Tamino",
+            "proverb": "In an unreasonable situation, an unreasonable move is reasonable"
+        },
+        {
+            "author": "jansteen",
+            "proverb": "A basic: Don't push too hard."
+        },
+        {
+            "author": "jansteen",
+            "proverb": "In the opening, when you don't know what to play, make a shimari."
+        },
+        {
+            "author": "jansteen",
+            "proverb": "There is a thin line between thick and slow."
+        },
+        {
+            "author": "anonymous",
+            "proverb": "When you study joseki, you lose two stones in strength"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Don't try to enclose an open skirt"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Play slow, win slow; play fast, lose fast"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Do not make moves that strengthen your opponent!"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Keep sente in the opening. A premature attack loses sente"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Keshi is worth as much as an invasion!"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Only amateurs try to come up with fancy moves"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Don't count territory held by only one eye!"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Grab the border point between two moyos"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Defend weak groups, not strong groups"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Don't get surrounded! Ever!"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "The simplest move is the best move"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Hane? Extend! Make it a habit"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "White is always trying to kill a bigger group than black is trying to save"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Grab the shape points as kikashi"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Five liberties for tactical stability"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Don't play on dame points, but guarantee connections"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Be a little patient. Keshi works!"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Conservative and slow will win. Believe it!"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Thickness? Ladders always work! [or don't work if it belongs to your opponent!]"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Dead group? Always win ko fights!"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Make your own groups strong first, then attack"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "The book says don't fight (The pen is mightier than the sword). But what else can be expected from a book (written by a pen)?"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "On the second line six die, eight live"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "On the third line, four die, six live"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "In the corner, five stones in a row on the third line are alive"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Six eyes in a rectangle are alive"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "For rectangular six in the corner, dame is necessary"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "If one player chooses influence, the other player may choose territory, and vice versa"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "The comb formation is alive"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "For the comb formation in the corner, dame is necessary"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "The carpenter's square becomes ko"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "If there is no stone on the handicap point, the carpenter's square is dead"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "There is death in the hane"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Strange things happen at the one-two points"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "If a formation is symmetrical, play at the center"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Against three in a row, play right in the center"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "The semeai where only one player has an eye is a fight over nothing"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "There are times when even a fight over nothing means something"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "If there is a ko inside a semeai, capture it on the final play"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Learn the eye-stealing tesuji"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Don't make empty triangles"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Don't make compact groups of stones"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "At the head of two stones in a row, play hane"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "At the head of three stones in a row, play hane"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Shoulder connections, hanging connections, and knight's move connections"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "If your stone is capped, play the knight's move"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Beware of the clumsy double contact"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Don't play in direct contact with the opponent's stone caught in your squeeze-play"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Don't make a play adjacent to a cutting-point"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Capture what you cut off"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Never try to cut bamboo joints"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "If you have one stone on the third line, add another, then abandon both of them"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Answer the keima with a kosumi"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Beware of going back to patch up your plays"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "The monkey jump is worth eight points"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "The poor player plays the opponent's game for him"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "If you have lost four corners, resign"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "If you have won four corners, resign"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Pon-nuki is worth thirty points"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "One point in the center is worth ten in the corner"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "To reduce an opponent's large prospective territory, strike at the shoulder"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "If you plan to live inside enemy territory, play directly against his stones"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Knight's moves win running battles"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "When your opponent has two weak groups, attack them both at once"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "The enemy's vital point is your own"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Add one stone, then sacrifice both"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "The saki bottle shape is negative"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "There is no territory in the centre"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "2-1 is the vital point in the corner"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Fill in a semiai from the outside"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Groups mustn't float"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "The strong player plays straight, the weak diagonally"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "If you lose by one point, take a rest"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Win the early ko to win the game"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Attach to the strongest stone in a pincer"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Keep away from thickness"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Five groups might live but the sixth will die"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Win the stones, lose the game"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Don't make territory near thickness"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Sacrifice small to take large"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Corner, side, centre"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Extend one hand from the cross-cut"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Good moves and bad moves are bedfellows"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Don't peep at cutting points"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Take the cutting stone on the second line"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "The second line is the line of defeat, the third line is the line of territory, and the fourth line is the line of influence"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "The rectangular six is normally alive"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Stop on second, extend on third"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "If you don't know ladders, don't play go"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Strike at the waist of the knight's move"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Sacrifice and squeeze"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Empty triangles are bad"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Atari, atari is vulgar play"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Keep inessential ataris till the end"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Avoid the plate connection"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "A meijin needs no joseki"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Big groups never die"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Ikken tobi is never wrong"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Strange things happen at the one-two points"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "The L-group is dead"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Don't overlook the edge of the board"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "There is damezumari at the bamboo joint"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Learn to play under the stones"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Eyes win semiais"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Don't make dango's"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Know the eye-stealing tesuji"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Connect with good shape"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Don't disturb symmetry"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "From a cross-cut, extend"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Use the Knight's move to attack, the 1-point jump to defend"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Attack two weak groups simultaneously"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Sacrifice for shape"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "With only one group, you will win"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Each step in a ladder is worth 7 points"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "With less than 15 stones in danger, tenuki"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Do not fear furikawari"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "One big eye kills one small eye"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Seek small gains but incur big losses"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Don't be greedy!"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "When in a winning position, keep the game simple; Make it complex only when losing"
+        },
+        {
+            "author": "anonymous",
+            "proverb": "Use a wall to attack, not to make territory"
+        }
+    ]
+}
