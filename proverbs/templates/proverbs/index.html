@@ -1,0 +1,15 @@
+<h1>Welcome to Go Proverbs</h1>
+
+{% extends "proverbs/base.html" %}
+
+{% block content %}
+{% if proverbs %}
+    <ul>
+    {% for proverb in proverbs %}
+        <li><a href="/proverbs/{{ proverb.id }}/">{{ proverb.text }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No proverbs available.</p>
+{% endif %}
+{% endblock %}

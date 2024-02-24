@@ -1,0 +1,10 @@
+<h1>Details about the Proverb</h1>
+
+{% extends "proverbs/base.html" %}
+
+{% block title %}{{ proverb.text }}{% endblock %}
+
+{% block content %}
+<div>{{ proverb.text }}</div>
+<li>{{ proverb.author }}</li>
+{% endblock %}
