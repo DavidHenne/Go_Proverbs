@@ -1,10 +1,15 @@
-# Django in Docker
+# Go Proverbs App
 
 Building and running:
 
-    $ docker-compose build
-    $ docker-compose up
+    $ make build
+    $ make start-services
+    $ make run
 
-DB Info:
+Scripts:
 
-    Built using Postgres
+    -- convert .txt file to .json
+    $ python json_convert.py
+    
+    -- import json to db
+    $ python manage.py import_json path/to/file.json
